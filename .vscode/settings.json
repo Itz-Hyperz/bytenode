@@ -1,6 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "javascript.format.insertSpaceAfterConstructor": true,
-  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
-  "editor.tabSize": 2,
-}
